@@ -1,4 +1,4 @@
-# Prototype software for Photon-pixel-coupling method
+# Prototype software for Photon-pixel coupling method
 
 Please read:
 
