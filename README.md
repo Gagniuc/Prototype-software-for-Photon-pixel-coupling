@@ -18,6 +18,4 @@ https://www.sciencedirect.com/science/article/pii/S2352340918312204
 
 Programming language: Visual Basic 6.0
 
-![screenshot](https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/Photon-pixel%20coupling%20(1).PNG)
-![screenshot](https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/Photon-pixel%20coupling%20(2).PNG)
 ![screenshot](https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/Photon-pixel%20coupling%20(3).PNG)
