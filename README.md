@@ -10,7 +10,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663
 3) <i>Maps of electrical activity in diabetic patients and normal individuals:</i>
 https://www.sciencedirect.com/science/article/pii/S2352340918312204
 
-![screenshot](https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/Photon-pixel%20coupling%20(3).PNG)
+![screenshot](https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/screenshot/Photon-pixel%20coupling%20(3).PNG)
 
 # References
 ▪	<i>Gagniuc, P.A., Ionescu-Tirgoviste, C., Gagniuc, E.. Photon-pixel coupling: a method for parallel acquisition of electrical signals for scientific investigations. Methods X, 6(2019) 968-979.</i>
