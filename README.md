@@ -1,6 +1,6 @@
 # Prototype software for Photon-pixel coupling method
 
-Photon-pixel coupling is a novel method that allows a parallel sampling of an unlimited number of sensors. In the case shown here, 200 sensors are sampled in parallel at video rate frequency. The Vesta software shown below, analizes consecutive images from a special folder. Previously this folder is filled up with images from a dedicated [WebCam software](https://github.com/Gagniuc/WebCam-software-sampling). This implementation is made in Visual Basic 6.0 (VB6). Please read:
+Photon-pixel coupling is a novel method that allows a parallel sampling of an unlimited number of sensors. In the case shown here, 200 sensors are sampled in parallel at video rate frequency. The Vesta software shown below, analizes consecutive images from a special folder. Previously, this folder is filled up with images from a dedicated [WebCam software](https://github.com/Gagniuc/WebCam-software-sampling). The Vesta implementation is made in Visual Basic 6.0 (VB6). Please read more here:
 
 1) <i>[Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations](https://www.sciencedirect.com/science/article/pii/S2215016119300901)</i> 
 
