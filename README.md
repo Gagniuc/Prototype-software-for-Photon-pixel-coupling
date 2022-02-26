@@ -1,5 +1,7 @@
 # Prototype software for Photon-pixel coupling method
 
+Photon-pixel coupling is a novel method that allows a parallel sampling of an unlimited number of sensors. In the case shown here, 200 sensors are sampled in parallel at video rate frequency. This implementation is done in Visual Basic 6.0 (VB6).
+
 Please read:
 
 1) <i>Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations:</i> https://www.sciencedirect.com/science/article/pii/S2215016119300901
