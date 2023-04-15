@@ -877,7 +877,7 @@ Private Sub scanare_Click()
     
     Next i
     '-------------------------------------------------------------------------------------
-    ' Media matricelor la acelasi pacient
+   ' Medie matrici la acelasi pacient
     ib = 20
     jb = 10
     Row = (SumP.ScaleHeight / jb)
@@ -908,7 +908,7 @@ Private Sub scanare_Click()
     
     pTOT = pTOT + 1
     '-------------------------------------------------------------------------------------
-    ' Media matricelor intre pacienti
+   ' Medie matrici intre pacienti
     For j = 0 To jb - 1 'Rows
         For i = 0 To ib - 1 'Cols
             
